@@ -1,0 +1,57 @@
+Queue Data Structure
+Reverse First k Elements of Queue
+Implement a Queue using an Array
+Print all elements of a queue in a new line
+Level with maximum number of nodes
+Breadth First Search or BFS for a Graph
+Find Minimum Depth of a Binary Tree
+Medium Interview Questions on Queue Data Structure
+Implement a Deque
+Implement a Circular Queue
+Check if a queue can be sorted into another queue using a stack
+Implement Stack using Queues
+Implement Stack using Two Queues
+Implement Queue using Two Stacks
+Design a Queue data structure to get minimum or maximum in O(1) time
+Check whether a given graph is Bipartite or not
+Print Right View of a Binary Tree
+An Interesting Method to Generate Binary Numbers from 1 to n
+Implement a Queue using a Stack
+Reverse a queue using recursion
+Implement Priority Queue using Linked List
+Implement Queue using Deque
+Flatten a multilevel linked list
+Find next right node of a given key
+Detect cycle in an undirected graph using BFS
+Minimum steps to reach target by a Knight
+Islands in a graph using BFS
+Flood Fill Algorithm
+Minimum steps to reach target by a Knight
+First negative integer in every window of size k
+Level order traversal in spiral form
+Minimum time required to rot all oranges
+Queue based approach or first non-repeating character in a stream
+Shortest distance in a maze
+Geek in a Maze
+Find shortest safe route in a path with landmines
+Find the first circular tour that visits all petrol pumps
+Connect Nodes at Same Level
+Hard Interview Questions on Queue Data Structure
+Find the first non-repeating character from a stream of characters
+Maximum of all subarrays of size k using a queue
+Implement LRU Cache using Queue
+Design a Queue data structure to get the maximum or minimum of sliding window
+
+Find if there is a path between two vertices in a directed graph
+Design a Data Structure for LRU Cache
+Trapping Rain Water
+
+Maximum cost path from source node to destination
+
+Trapping Rain Water
+Maximum cost path from source node to destination
+Snake and Ladder Problem
+Minimum Cost Path in a directed graph via given set of intermediate nodes
+
+Turn a Queue into a Priority Queue
+Interchange elements of Stack and Queue without changing order

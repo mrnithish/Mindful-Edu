@@ -1,0 +1,55 @@
+Stack Data Structure
+
+Parenthesis Checker
+Reverse a String using Stack
+Why do we need Prefix and Postfix notations?
+Reverse an array using Stack
+How would I modify my code to delete chars from the beginning?
+Check for balanced parentheses in an expression 	
+Reverse a Stack using queue
+Delete Middle element from stack
+Reverse individual words
+Medium Interview Questions on Stack Data Structure
+How to implement a queue using two stacks?
+Implement Stack using Queues
+Implement a stack using a single queue
+Evaluate Postfix Expression
+Next Greater Element
+Nearest Smaller Element
+Find next Smaller of next Greater in an array
+Sort a stack using a temporary stack.
+Stock Span Problem
+Reverse a stack using recursion
+Infix to Postfix Conversion using Stack
+Implement two stacks in an array
+Delete consecutive same words in a sequence
+Lexicographically largest subsequence containing all distinct characters only once
+Iterative approach to check if a Binary Tree is BST or not
+Minimize length by removing subsequences forming valid parenthesis from a given string
+Special Stack
+Clone a stack without using extra space | Set 2
+Count of Subarrays whose first element is the minimum
+Length of the longest valid substring
+Find index of closing bracket for a given opening bracket in an expression
+Next Greater Frequency Element
+Find maximum difference between nearest left and right smaller elements
+Maximum product of indexes of next greater on left and right
+Hard Interview Questions on Stack Data Structure
+Check if the given permutation is valid stack permutation or not
+Design a stack that supports getMin() in O(1) time and O(1) extra space
+Design a data structure that supports insert(), delete(), getRandom() and getMin() in O(1) time complexity
+Check if two expressions with brackets are same
+How to efficiently implement k stacks in a single array?
+Find the largest rectangular area possible in a given histogram
+Implementation of stack using Doubly Linked List
+The Celebrity Problem
+Design custom Browser History based on given operations
+Maximum size rectangle binary sub-matrix with all 1s | Set 2
+Sort a stack using another stack
+Implement a stack that supports findMiddle() and deleteMiddle() operations in O(1) time complexity
+Maximum people a person can see while standing in a line in both direction
+Count of distinct differences between two maximum elements of every Subarray
+Largest Rectangular Area in a Histogram
+Range Queries for Longest Correct Bracket Subsequence Set
+Find maximum of minimum for every window size in a given array
+Print ancestors of a given binary tree node without recursion
