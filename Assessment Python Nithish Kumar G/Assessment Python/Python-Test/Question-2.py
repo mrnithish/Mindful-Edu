@@ -39,6 +39,7 @@ class LinkedList:
             while node.next is not None:
                 node=node.next
             node.next=newnode
+            
     def display(self):
         node=self.head
         if node is None:
@@ -73,8 +74,5 @@ list2.display()
 
 o=LinkedList()
 o.mergeL(list1,list2)
-o.display()
-
-        
-        
+o.display()      
         
