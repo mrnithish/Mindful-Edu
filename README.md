@@ -1,1 +1,3 @@
 # Mindful-Edu
+
+details
