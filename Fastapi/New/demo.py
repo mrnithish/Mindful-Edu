@@ -6,6 +6,7 @@ app=FastAPI()
 async def root():
     return {"word":"hello world"}
 
+
 #Single parameters
 @app.get("/hello/{name}/{age}")
 async def hello(name,age):
