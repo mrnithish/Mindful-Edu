@@ -18,7 +18,6 @@ async def index():
 # async def hello(name,age):
 #     return {"name":name,"age":age} 
 
-
 #Query Parameter
 # http://localhost:8000/hello?name=ravi&age=30
 @app.get("/hello")
